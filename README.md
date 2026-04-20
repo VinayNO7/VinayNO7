@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a 2nd year student 
+#Hi,I'm Vinay N Olekar:
+I'm a 2nd year Computer Science student 
 
 
 ## 🌐 Socials:
