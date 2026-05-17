@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinaya Nandeesha Olekar</h1>
 
 <h3 align="center">
-Passionate Software Developer from India 
+Backend Development, DSA & Data Science Enthusiast
 </h3>
 
 ---
@@ -28,10 +28,21 @@ Passionate Software Developer from India
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-### Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🧠 Problem Solving
+
+- Solving Data Structures & Algorithms problems regularly
+- Practicing on LeetCode to improve problem-solving skills
+
+<p align="left">
+  <a href="https://leetcode.com/VinayNO/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
