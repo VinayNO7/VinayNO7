@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Vinaya Nandeesha Olekar</h1>
 
 <h3 align="center">
