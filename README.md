@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinaya Nandeesha Olekar</h1>
 
 <h3 align="center">
-Passionate Software Developer from India 🇮🇳
+Passionate Software Developer from India 
 </h3>
 
 ---
@@ -23,28 +23,14 @@ Passionate Software Developer from India 🇮🇳
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 
-### Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![PSQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-- 📝 Task Tracker CLI
-- 🌐 Backend API Projects
-- 📊 DSA & Algorithm Implementations
-- 🗄️ Database Management Projects
 
 ---
 
@@ -62,8 +48,8 @@ Passionate Software Developer from India 🇮🇳
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: yourmail@example.com
+- GitHub: https://github.com/VinayNO7
+- Email: vinayolekar66@gmail.com
 
 ---
 
@@ -71,6 +57,3 @@ Passionate Software Developer from India 🇮🇳
   ⭐ Keep Learning, Keep Building
 </p>
 ```
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
