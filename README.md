@@ -53,12 +53,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/VinayNO7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VinayNO7&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="linkedin.com/in/vinay-n-olekar">
