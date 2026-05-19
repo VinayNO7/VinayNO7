@@ -1,71 +1,82 @@
 <h1 align="center">Hi 👋, I'm Vinaya Nandeesha Olekar</h1>
+<h3 align="center">Python Backend Developer Enthusiast</h3>
 
-<h3 align="center">
-Backend Development, DSA & Data Science Enthusiast
-</h3>
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Backend Development, PostgreSQL & FastAPI**
-- 💻 Interested in **Software Development, APIs, Databases & AI**
-- 🎯 Goal: Becoming a strong **Backend Engineer**
-- 📚 Currently improving my **DSA and System Design** skills
-- ⚡ Love building practical projects and solving problems
-
----
-
-## 🛠️ Languages & Technologies
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 🧠 Problem Solving
-
-- Solving Data Structures & Algorithms problems regularly
-- Practicing on LeetCode to improve problem-solving skills
-
-<p align="left">
-  <a href="https://leetcode.com/VinayNO/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=VinayNO7">
+    <img src="https://komarev.com/ghpvc/?username=VinayNO7&label=Profile%20views&color=00FFFF&style=flat-square" alt="VinayNO7's profile views" />
   </a>
 </p>
 
----
+## 📌 About Me
+- 🌱 Currently learning Backend Development, PostgreSQL & FastAPI
+- 💻 Interested in Software Development, APIs, Databases & AI
+- 🎯 Goal: Becoming a strong Backend Engineer
+- 📚 Currently improving my DSA and System Design skills
+- ⚡ Love building practical projects and solving problems
 
-## 📈 GitHub Stats
 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayNO7&&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/VinayNO7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VinayNO7&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VinayNO7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=VinayNO7&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="VinayNO7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=VinayNO7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vinaya Nandeesha Olekar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=VinayNO7&theme=tokyonight&radius=10" alt="VinayNO7's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayNO7&theme=tokyonight" />
+  <a href="https://github.com/VinayNO7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VinayNO7&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/VinayNO7
-- Email: vinayolekar66@gmail.com
-
----
-
+## 🔗 Connect with Me
 <p align="center">
-  ⭐ Keep Learning, Keep Building
+  <a href="linkedin.com/in/vinay-n-olekar">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://wa.me/9742799438">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="mailto:vinayolekar66@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
-```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
