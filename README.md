@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Nandeesha Olekar</h1>
-<h3 align="center">Python Backend Developer Enthusiast</h3>
+<h3 align="center">A Passionate Computer Science Enthusiast from India</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VinayNO7">
