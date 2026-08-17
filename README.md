@@ -43,7 +43,8 @@ const vinaya = {
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,sqlalchemy,git,github" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github" alt="Backend"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" height="48"/>
 
 **Databases**
 <br/>
