@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Vinay%20N%20Olekar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20CS%20Student%20%7C%20AI-ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Vinaya%20N%20Olekar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20CS%20Student%20%7C%20AI-ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/VinayNO7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%2B+SQLAlchemy+enthusiast;CS+Student+always+learning;Exploring+AI+%2F+ML" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const vinay = {
+const vinaya = {
   title: "Python Backend Developer | CS Student | Python AI-ML Enthusiast",
   stack: {
     languages: ["Python", "C", "C++"],
