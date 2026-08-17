@@ -1,65 +1,100 @@
-<h1 align="center">Hi 👋, I'm Vinay Nandeesha Olekar</h1>
-<h3 align="center">A Passionate Computer Science Enthusiast from India</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=VinayNO7">
-    <img src="https://komarev.com/ghpvc/?username=VinayNO7&label=Profile%20views&color=00FFFF&style=flat-square" alt="VinayNO7's profile views" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Vinay%20N%20Olekar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20CS%20Student%20%7C%20AI-ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-## 📌 About Me
-- 🌱 Currently learning Backend Development, PostgreSQL & FastAPI
-- 💻 Interested in Software Development, APIs, Databases, Data Science, AI
-- 🎯 Goal: Becoming a strong Backend Engineer
-- 📚 Currently improving my DSA and Backend skills
-- ⚡ Love building practical projects and solving problems
+<a href="https://github.com/VinayNO7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%2B+SQLAlchemy+enthusiast;CS+Student+always+learning;Exploring+AI+%2F+ML" alt="Typing SVG" />
+</a>
 
+<br/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/VinayNO7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VinayNO7&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VinayNO7's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=VinayNO7&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="VinayNO7's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=VinayNO7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vinaya Nandeesha Olekar's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=VinayNO7&theme=tokyonight&radius=10" alt="VinayNO7's Activity Graph" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=VinayNO7&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/VinayNO7?label=Followers&style=flat&color=7dd3fc" alt="GitHub followers"/>
 
+</div>
+
+<br/>
+
+## 🧠 Who I Am
+
+```typescript
+const vinay = {
+  title: "Python Backend Developer | CS Student | Python AI-ML Enthusiast",
+  stack: {
+    languages: ["Python", "C", "C++"],
+    backend: ["FastAPI", "SQLAlchemy"],
+    databases: ["PostgreSQL", "SQLite", "MySQL"],
+    tools: ["Git", "GitHub", "VS Code"],
+  },
+  launchedProjects: [], // nothing featured yet — stay tuned 🚀
+  certifications: [],
+  status: "Building backend systems & exploring AI/ML",
+  openTo: "Not currently open to work",
+};
+```
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Languages"/>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="linkedin.com/in/vinay-n-olekar">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://wa.me/9742799438">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  <a href="mailto:vinayolekar66@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,sqlalchemy,git,github" alt="Backend"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases"/>
 
+**Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="Dev Tools"/>
 
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VinayNO7&show_icons=true&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayNO7&layout=compact&theme=nord&border_color=7dd3fc&text_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VinayNO7&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VinayNO7&no-frame=true&no-bg=true&theme=nord&column=7" alt="GitHub Trophies"/>
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayNO7&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinay-n-olekar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:vinayolekar66@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
