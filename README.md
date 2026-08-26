@@ -9,7 +9,7 @@
 </div>
 <br/>
 ## 🧠 Who I Am
-```typescript
+typescript
 const vinaya = {
   title: "Python Backend Developer | CS Student | Python AI-ML Enthusiast",
   stack: {
@@ -23,7 +23,7 @@ const vinaya = {
   status: "Building backend systems & exploring AI/ML",
   openTo: "Not currently open to work",
 };
-```
+
 <br/>
 ## 🛠️ Tech Stack
 **Languages**
@@ -42,8 +42,8 @@ const vinaya = {
 <br/>
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VinayNO7&show_icons=true&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc&hide_border=false&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayNO7&layout=compact&theme=nord&border_color=7dd3fc&text_color=7dd3fc&title_color=7dd3fc&hide_border=false&cache_seconds=86400" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VinayNO7&show_icons=true&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayNO7&layout=compact&theme=nord&border_color=7dd3fc&text_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=VinayNO7&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 </div>
@@ -67,3 +67,5 @@ const vinaya = {
 </div>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+
+this readme file is slightly off, the GitHub stats, trophies and contribution activity is not visible make them work and dont change other than this
